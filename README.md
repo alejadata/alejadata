@@ -21,6 +21,7 @@ Lecturas del blog:
 - **Dashboards:** Looker Studio y Tableau.
 - **SEO técnico y analítica de contenido.**
 - **Estadística y pronóstico:** series de tiempo, regresión y modelos en R.
+- **Analítica deportiva:** modelos de pronóstico y medición de aciertos en fútbol, NBA y béisbol.
 
 ### 🏷️ Nichos en los que trabajo
 - Turismo y hoteles
@@ -29,7 +30,7 @@ Lecturas del blog:
 - Comercio electrónico
 
 ### 🌎 In English
-Data analyst specialized in digital marketing analytics, with a statistics background, based in Bogotá, Colombia. I run [Alejadata.pro](https://alejadata.pro/), a digital analytics consultancy for businesses in Latin America, and work across several industries: hospitality, health, education and e-commerce. My stack: GA4, Google Tag Manager, server-side tagging, Consent Mode V2, Meta Conversions API, Looker Studio, Google Ads and Meta Ads. My public repositories are R projects on digital marketing and paid media analytics (measurement audits, campaign performance, A/B tests and forecasting), statistics, time series and operations research, with READMEs in Spanish.
+Data analyst specialized in digital marketing analytics, with a statistics background, based in Bogotá, Colombia. I run [Alejadata.pro](https://alejadata.pro/), a digital analytics consultancy for businesses in Latin America, and work across several industries: hospitality, health, education and e-commerce. My stack: GA4, Google Tag Manager, server-side tagging, Consent Mode V2, Meta Conversions API, Looker Studio, Google Ads and Meta Ads. My public repositories are R projects on digital marketing and paid media analytics (measurement audits, campaign performance, A/B tests and forecasting), sports analytics (football, NBA and MLB models and forecast accuracy), statistics, time series and operations research, with READMEs in Spanish.
 
 
 ### 🎓 Formación y certificaciones
@@ -47,6 +48,16 @@ Lo que analizo en mi trabajo, llevado a R: medición, rendimiento de campañas y
 | [Auditoría de medición con GA4](https://github.com/alejadata/auditoria-medicion-ga4-r) | Conversiones repetidas, UTMs, atribución perdida en la pasarela de pago y diferencias entre GA4 y las plataformas de pauta |
 | [Rendimiento de pauta](https://github.com/alejadata/rendimiento-pauta-r) | CPL, CPA y ROAS en Google Ads y Meta Ads, con alertas estadísticas e intervalos de confianza |
 | [Experimentos y pronóstico](https://github.com/alejadata/experimentos-y-pronostico-marketing-r) | Pruebas A/B, rendimientos decrecientes y leads esperados según el presupuesto |
+
+### ⚽ Analítica deportiva
+Fútbol, baloncesto y béisbol analizados en R. Cada repositorio trae scripts, pruebas y un README en español; usa datos públicos que se descargan al ejecutar. También publico estadísticas y pronósticos de partidos en [Antesala](https://antesalafutbol.com/).
+
+| Proyecto | Qué cubre |
+| --- | --- |
+| [Modelo de pronósticos y aciertos](https://github.com/alejadata/pronosticos-y-aciertos-r) | Modelo Elo de tres resultados, acierto, Brier, RPS, calibración y bitácora de pronósticos |
+| [Fútbol](https://github.com/alejadata/analitica-futbol-r) | Modelo de goles Dixon-Coles para Premier League, LaLiga, Bundesliga y Ligue 1 |
+| [NBA](https://github.com/alejadata/analitica-nba-r) | Rating Elo, calibración y efecto de jugar dos días seguidos |
+| [Béisbol MLB](https://github.com/alejadata/analitica-beisbol-mlb-r) | Expectativa pitagórica y métricas de bateo y pitcheo |
 
 ### 📂 Proyectos en R
 Análisis estadístico y de pronóstico en R, de mis clases e investigaciones. Cada repositorio trae scripts, datos de ejemplo y un README en español.
