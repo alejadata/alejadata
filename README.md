@@ -29,7 +29,7 @@ Lecturas del blog:
 - Comercio electrónico
 
 ### 🌎 In English
-Data analyst specialized in digital marketing analytics, with a statistics background, based in Bogotá, Colombia. I run [Alejadata.pro](https://alejadata.pro/), a digital analytics consultancy for businesses in Latin America, and work across several industries: hospitality, health, education and e-commerce. My stack: GA4, Google Tag Manager, server-side tagging, Consent Mode V2, Meta Conversions API, Looker Studio, Google Ads and Meta Ads. My public repositories are R projects on statistics, time series and operations research, with READMEs in Spanish.
+Data analyst specialized in digital marketing analytics, with a statistics background, based in Bogotá, Colombia. I run [Alejadata.pro](https://alejadata.pro/), a digital analytics consultancy for businesses in Latin America, and work across several industries: hospitality, health, education and e-commerce. My stack: GA4, Google Tag Manager, server-side tagging, Consent Mode V2, Meta Conversions API, Looker Studio, Google Ads and Meta Ads. My public repositories are R projects on digital marketing and paid media analytics (measurement audits, campaign performance, A/B tests and forecasting), statistics, time series and operations research, with READMEs in Spanish.
 
 
 ### 🎓 Formación y certificaciones
@@ -38,6 +38,15 @@ Data analyst specialized in digital marketing analytics, with a statistics backg
 - Machine Learning Models with R — Social Data Consulting S.A.C. (Ago 2022)
 - Learning Excel 2016 — LinkedIn Learning (May 2021)
 - Insights on Data Science — LinkedIn Learning (Abr 2020)
+
+### 📊 Marketing digital y Pauta
+Lo que analizo en mi trabajo, llevado a R: medición, rendimiento de campañas y decisiones de presupuesto. Cada repositorio trae scripts, un README en español y datos simulados, sin información de clientes.
+
+| Proyecto | Qué cubre |
+| --- | --- |
+| [Auditoría de medición con GA4](https://github.com/alejadata/auditoria-medicion-ga4-r) | Conversiones repetidas, UTMs, atribución perdida en la pasarela de pago y diferencias entre GA4 y las plataformas de pauta |
+| [Rendimiento de pauta](https://github.com/alejadata/rendimiento-pauta-r) | CPL, CPA y ROAS en Google Ads y Meta Ads, con alertas estadísticas e intervalos de confianza |
+| [Experimentos y pronóstico](https://github.com/alejadata/experimentos-y-pronostico-marketing-r) | Pruebas A/B, rendimientos decrecientes y leads esperados según el presupuesto |
 
 ### 📂 Proyectos en R
 Análisis estadístico y de pronóstico en R, de mis clases e investigaciones. Cada repositorio trae scripts, datos de ejemplo y un README en español.
